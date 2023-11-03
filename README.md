@@ -35,6 +35,6 @@ Currently, I am working as a web developer. The following skills I have: HTML5, 
 
 ----------
 
-### 😂 Random Dev Meme
+### 😂 Just for fun!
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
