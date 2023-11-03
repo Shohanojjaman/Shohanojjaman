@@ -5,8 +5,6 @@
 
 # Hi there 👋, I'm Shohanojjaman
 
-I am a web developer
-
 ## 💫 About Me:
 
 Currently, I am working as a web developer. The following skills I have: HTML5, CSS3, Git, GitHub, Bootstrap, Tailwind CSS, JavaScript, React, etc.
